@@ -1,0 +1,3 @@
+One function of a operating system is to manage processors. The operating system assigns order for which processes have access to the processor, and the processing
+time each processor has. This process is called scheduling. The operating system also keeps track of the status of processes by a program called a traffic 
+controller. 
